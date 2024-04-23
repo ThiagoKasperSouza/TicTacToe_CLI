@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(tictactoe src/main.cpp
         src/lib/game/Game.cpp
-        src/lib/game/Game.h
         src/lib/player/Player.cpp
-        src/lib/player/Player.h)
+        src/lib/board/Board.cpp
+)

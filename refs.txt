@@ -1,0 +1,3 @@
+https://www.w3schools.com/cpp/cpp_constructors.asp
+https://learn.microsoft.com/pt-br/cpp/cpp/header-files-cpp?view=msvc-170
+http://alura.com.br/imersao-ia-google-gemini?bid=ELJOYLQ
