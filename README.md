@@ -16,19 +16,14 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> Exercício para praticar lógica com c++;
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
-- [About](#about)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
-
-## 🧐 About <a name = "about"></a>
-
-Exercício para praticar lógica com c++;
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
