@@ -43,6 +43,4 @@ See also the list of [contributors](https://github.com/ThiagoKasperSouza/TicTacT
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- [References](https://github.com/ThiagoKasperSouza/TicTacToe_CLI/blob/master/refs.txt)
