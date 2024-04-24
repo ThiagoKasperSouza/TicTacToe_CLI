@@ -6,7 +6,6 @@
 
 #include <iostream>
 #include "../board/Board.cpp"
-#include "../player/Player.cpp"
 using namespace std;
 
 
@@ -17,6 +16,7 @@ public:
     Board board;
     Player *playerX;
     Player *playerO;
+    int currentRound;
 
     Game()
     {
@@ -41,8 +41,6 @@ public:
             } while((num < 0) or (num > 9));
         }
         checkWinner();
-        delete playerX;
-        delete playerO;
 
     };
 private:
@@ -55,9 +53,8 @@ private:
         ) {
             cout << "X VENCEU\n";
             playerX->win();
-            cout << "PONTUAÇÃO\n" << playerO->score << "\n";
-            cout << playerX->score;
-            exit(0);
+            cout << "PONTUAÇÃO\n" << "O ->" << playerO->score << "\n";
+            cout << "X ->" << playerX->score << "\n";
         }
         else if (
             board.checkDiagonalVictory("O") or
@@ -67,12 +64,14 @@ private:
         {
             cout << "O VENCEU\n";
             playerO->win();
-            cout << "PONTUAÇÃO\n" << playerO->score << "\n";
-            exit(0);
+            cout << "PONTUAÇÃO\n" << "O ->" << playerO->score << "\n";
+            cout << "X ->" << playerX->score << "\n";
         }
         else if(board.getCurrentRound() >= 9) {
             cout << "\nEMPATE\n";
-            exit(0);
+            cout << "PONTUAÇÃO\n" << "O ->" << playerO->score << "\n";
+            cout << "X ->" << playerX->score << "\n";
+
         }
     }
 

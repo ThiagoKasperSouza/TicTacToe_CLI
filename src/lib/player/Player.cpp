@@ -4,8 +4,6 @@
 // Created by Thiago Kasper de Souza on 19/04/24.
 using namespace  std;
 #include <iostream>
-#include <utility>
-
 class Player
 {
     public:
