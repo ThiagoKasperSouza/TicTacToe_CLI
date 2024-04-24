@@ -32,10 +32,11 @@
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@ThiagoKasperSouza](https://github.com/ThiagoKasperSouza) - Initial work
 
 See also the list of [contributors](https://github.com/ThiagoKasperSouza/TicTacToe_CLI/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
+- [@kylelobo](https://github.com/kylelobo) - README Template
 - [References](https://github.com/ThiagoKasperSouza/TicTacToe_CLI/blob/master/refs.txt)
