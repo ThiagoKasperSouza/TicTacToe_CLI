@@ -1,3 +1,8 @@
 https://www.w3schools.com/cpp/cpp_constructors.asp
 https://learn.microsoft.com/pt-br/cpp/cpp/header-files-cpp?view=msvc-170
 http://alura.com.br/imersao-ia-google-gemini?bid=ELJOYLQ
+https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
+https://www.inf.pucrs.br/~pinho/PRGSWB/Streams/streams.htmlhttps://www.scaler.com/topics/exit-in-cpp/
+https://www.scaler.com/topics/exit-in-cpp/
+https://stackoverflow.com/questions/11310898/how-do-i-get-the-type-of-a-variable
+https://g.co/gemini/share/131d5f265474
